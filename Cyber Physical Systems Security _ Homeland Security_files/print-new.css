@@ -1,0 +1,87 @@
+* {
+	background-color:transparent;
+}
+
+#header { background:none !important; }
+
+#site-name:after { /* add our title to header */
+	content: "U.S. Department of Homeland Security";
+}
+
+img { max-width:100% !important; }
+
+#page {
+	width:100% !important;
+}
+
+a:hover, a:active, a:link, a:visited {
+	color:#000;
+}
+
+/* 
+ * Add printed locations to all links
+ ************************************************************/
+
+#content a:link:after, #content a:visited:after {
+	content:" (" attr(href) ") ";
+	font-size:.8em;
+	font-weight:normal;
+}
+
+.pager-item a:after, .pager-next a:after, .pager-last a:after {
+	content: "" !important;
+}
+
+/* 
+ * BEGIN accordion styling
+ ************************************************************/
+
+.accordion #expandAll { display:none !important; }
+.accordion .accordion-icon { background:none !important; }
+.accordion .accordion_fold { display:block !important; } /* auto expand all acordions */
+
+/* 
+ * Addthis and other social element styling
+ ************************************************************/
+
+#branding-region .boxes-social_media_follow,
+.addthis-addthis_block, 
+.addthis_toolbox { display:none; }
+
+/* 
+ * BEGIN general layout
+ ************************************************************/
+
+#branding { float:left; } /* new line for DHS logo */
+
+#user-first-region>div>div>div { width:100%; } /* give "Official website of the Department of Homeland Security" full width */
+
+#content { margin:0 !important; } /* allow content to span full width */
+
+body.node-type-landing-page #content-area .field-name-field-featured-items, 
+body.node-type-topic #content-area .field-name-field-featured-items {
+	margin-left:0 !important;
+}
+
+/* 
+ * BEGIN hidden elements definition below 
+ * (hide all the things we don't want to render)
+ ************************************************************/
+
+#content .messages { display:none; }
+
+.menu-menu-utility { display: none; } /* hide utility menu (contact|quicklinks|sitemap) */
+.sidebar, #navigation, #header-region, #search-theme-form, #footer, .breadcrumb, .tabs, .feed-icon, .links {
+	/* hide default elements */
+	display:none;
+}
+
+.menu-menu-left-menu { display:none; } /* hide left menu */
+
+.front .field-name-field-featured-items img { display:none; } /* hide homepage carousels that overflow */
+
+#header .search-form { display:none; } /* hide digitalgov search form */
+
+#wcm-node-feedback-form { display: none; } /* hide feedback form */
+
+#boxes-box-govdel_press { display:none; } /* hide email signup for updates */

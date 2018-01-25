@@ -1,0 +1,54 @@
+[1] R. Hoenkamp, G. B. Huitema, and A. J. de Moor-van Vugt, “Neglected
+consumer: The case of the smart meter rollout in the netherlands, the,”
+Renewable Energy L. & Pol’y Rev., p. 269, 2011.
+
+[2] A. Molina-Markham, P. Shenoy, K. Fu, E. Cecchet, and D. Irwin,
+“Private memoirs of a smart meter,” in Proceedings of the 2Nd ACM
+Workshop on Embedded Sensing Systems for Energy-Efficiency in Build-
+ing, BuildSys ’10, (New York, NY, USA), pp. 61–66, ACM, 2010.
+
+
+[20] V. Gulisano, V. Tudor, M. Almgren, and M. Papatriantafilou, “Bes:
+Differentially private and distributed event aggregation in advanced
+metering infrastructures,” in Proceedings of the 2Nd ACM International
+Workshop on Cyber-Physical System Security, CPSS ’16, (New York,
+NY, USA), pp. 59–69, ACM, 2016.
+
+[21] J. M. Bohli, C. Sorge, and O. Ugus, “A privacy model for smart
+metering,” in 2010 IEEE International Conference on Communications
+Workshops, pp. 1–5, May 2010.
+
+[22] X. He, X. Zhang, and C. C. J. Kuo, “A distortion-based approach to
+privacy-preserving metering in smart grids,” IEEE Access, vol. 1, pp. 67–
+78, 2013.
+
+[23] S. Wang, L. Cui, J. Que, D. H. Choi, X. Jiang, S. Cheng, and L. Xie,
+“A randomized response model for privacy preserving smart metering,”
+IEEE Transactions on Smart Grid, vol. 3, pp. 1317–1324, Sept 2012.
+
+[24] G. Kalogridis, C. Efthymiou, S. Z. Denic, T. A. Lewis, and R. Cepeda,
+“Privacy for smart meters: Towards undetectable appliance load signa-
+tures,” in Smart Grid Communications (SmartGridComm), 2010 First
+IEEE International Conference on, pp. 232–237, IEEE, 2010.
+
+[25] S. McLaughlin, P. McDaniel, and W. Aiello, “Protecting consumer
+privacy from electric load monitoring,” in Proceedings of the 18th ACM
+conference on Computer and communications security, pp. 87–98, ACM,
+2011.
+
+[26] P. Barbosa, A. Brito, and H. Almeida, “A technique to provide dif-
+ferential privacy for appliance usage in smart metering,” Information
+Sciences, vol. 370, pp. 355–367, 2016.
+
+[27] X. Lou, R. Tan, D. Yau, and P. Cheng, “Cost of differential pri-
+vacy in demand reporting for smart grid economic dispatch,” tech.
+rep., 2016, http://publish.illinois.edu/cps-security/files/2016/12/dp-cost-
+techreport.pdf.
+
+[28] J. Hsu, A. Roth, T. Roughgarden, and J. Ullman, “Privately solving linear
+programs,” in International Colloquium on Automata, Languages, and
+Programming, pp. 612–624, Springer, 2014.
+
+
+
+
